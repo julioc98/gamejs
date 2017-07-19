@@ -1,0 +1,26 @@
+{
+  "name": "gamejs",
+  "version": "1.0.0",
+  "description": "game for test",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julioc98/gamejs.git"
+  },
+  "author": "julioc98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julioc98/gamejs/issues"
+  },
+  "homepage": "https://github.com/julioc98/gamejs#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.0.2",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}
